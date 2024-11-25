@@ -1,0 +1,41 @@
+.container {
+  
+  justify-content: center;
+  align-items: center;  
+  display: flex;
+  padding-top: 2%;
+   
+}
+
+.button button {
+  background-color: rgb(88, 94, 92);
+  color: rgb(250, 249, 249);
+  height: 50px;
+  border-radius: 20px;
+border-color: rgb(20, 22, 21);
+  gap: 10px;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: x-large;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: rgb(119, 115, 118);
+  padding-top: 15%;
+}
+h1{
+  display: flex;
+  justify-content: center;
+ 
+}
+.counterapp{
+  background-color: rgb(49, 48, 59);
+  margin: 0%;
+padding: 20px;
+border-radius: 15px;
+color: aliceblue;
+}
